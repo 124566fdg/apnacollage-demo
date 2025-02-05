@@ -1,5 +1,5 @@
 # apnacollage-demo
 Author-Boby kanojiya
 <br>
-Author2-Vikky
+Author2-(parallel)
 
